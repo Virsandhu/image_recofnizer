@@ -1,0 +1,19 @@
+body{
+    background-color: pink;
+    color:white;
+
+}
+
+.heading{
+    width:75%;
+    font-size: 22px;
+}
+
+#camera{
+    width: 350px;
+    height: 350px;
+    border: black;
+    border-width: 2px;
+    border-style: groove;
+}
+
